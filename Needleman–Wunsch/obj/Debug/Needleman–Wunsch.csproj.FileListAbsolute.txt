@@ -1,0 +1,6 @@
+C:\Users\Halil\Desktop\Needleman–Wunsch\Needleman–Wunsch\bin\Debug\Needleman–Wunsch.exe.config
+C:\Users\Halil\Desktop\Needleman–Wunsch\Needleman–Wunsch\obj\Debug\Needleman–Wunsch.csprojResolveAssemblyReference.cache
+C:\Users\Halil\Desktop\Needleman–Wunsch\Needleman–Wunsch\bin\Debug\Needleman–Wunsch.exe
+C:\Users\Halil\Desktop\Needleman–Wunsch\Needleman–Wunsch\bin\Debug\Needleman–Wunsch.pdb
+C:\Users\Halil\Desktop\Needleman–Wunsch\Needleman–Wunsch\obj\Debug\Needleman–Wunsch.exe
+C:\Users\Halil\Desktop\Needleman–Wunsch\Needleman–Wunsch\obj\Debug\Needleman–Wunsch.pdb
